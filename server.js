@@ -15,7 +15,7 @@ async function connectToMongoDB() {
     } catch (error) {
     
         console.error("Error connecting to MongoDB Atlas:", error);
-        db_response = `${error} error occured`;
+        db_response = `${error} error occured here`;
     
     }
 }
