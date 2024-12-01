@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const uri = "mongodb+srv://ayushdce2:b4LmhR5rjjvXj9j9@cluster0.8kkxg.mongodb.net/test?retryWrites=true&w=majority&appName=Cluster0";
+const uri = "mongodb+srv://ayushdce2:8445315561Aa$@cluster0.8kkxg.mongodb.net/test?retryWrites=true&w=majority&appName=Cluster0";
 
 let db_response = "start value";
 
