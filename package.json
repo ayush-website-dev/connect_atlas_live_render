@@ -1,0 +1,25 @@
+{
+  "name": "connect_atlas_live_render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush-website-dev/connect_atlas_live_render.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush-website-dev/connect_atlas_live_render/issues"
+  },
+  "homepage": "https://github.com/ayush-website-dev/connect_atlas_live_render#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7"
+  }
+}
